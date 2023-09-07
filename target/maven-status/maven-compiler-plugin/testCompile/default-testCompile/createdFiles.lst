@@ -1,0 +1,10 @@
+SeleniumAutomation\TestComponents\BaseTest.class
+SeleniumAutomation\tests\ErrorValidationTest.class
+SeleniumAutomation\tests\SubmitOrderTest2.class
+SeleniumAutomation\data\dataReader$1.class
+SeleniumAutomation\data\dataReader.class
+SeleniumAutomation\TestComponents\Listeners.class
+SeleniumAutomation\tests\StandAloneTest.class
+SeleniumAutomation\tests\SubmitOrderTest.class
+SeleniumAutomation\TestComponents\BaseTest$1.class
+SeleniumAutomation\TestComponents\Retry.class

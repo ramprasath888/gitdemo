@@ -1,0 +1,8 @@
+SeleniumAutomation\pageobjects\ConfirmationMsg.class
+SeleniumAutomation\pageobjects\PlaceOrderCheckout.class
+SeleniumAutomation\pageobjects\ProductCatalogue.class
+SeleniumAutomation\resources\ExtentReporterTestNG.class
+SeleniumAutomation\pageobjects\OrderPage.class
+SeleniumAutomation\pageobjects\LandingPage.class
+SeleniumAutomation\AbstractComponents\AbstractComponent.class
+SeleniumAutomation\pageobjects\CartCheckout.class
