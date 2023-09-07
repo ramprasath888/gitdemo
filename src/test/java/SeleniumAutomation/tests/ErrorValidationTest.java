@@ -31,6 +31,7 @@ public class ErrorValidationTest extends BaseTest {
 			CartCheckout cartCheckout = productCatalogue.goToCartPage();   
 			Boolean cartNameMatch = cartCheckout.verifyCartDisplay("zara coat 33"); //if we give wrong name it will give error thats why we used in error validation	
 			Assert.assertFalse(cartNameMatch);
+			System.out.println(cartNameMatch);
 	 }
 	
 }
